@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🔭 I’m currently working on upgrading my skills
+- 🌱 I’m currently learning Javascript
+- 👯 I’m a recent graduate and looking for jobs
+- 🤔 I’m looking for help with open source
+
 
 <!--
 **Suraj-1705/Suraj-1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
