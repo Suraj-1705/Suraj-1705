@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on upgrading my skills
 - 🌱 I’m currently learning Javascript
 - 👯 I’m a recent graduate and looking for jobs
-- 🤔 I’m looking for help with open source
+
 
 
 <!--
